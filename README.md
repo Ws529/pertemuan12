@@ -2,7 +2,7 @@
 
 # OOP (Object-Oriented Programming)
 ```diff
-Nama  : Bayu Aji Yuwono
+Nama  : Wawan Suwandi
 NIM   : 312310492
 Kelas : TI.23.A.5
 ```
@@ -10,9 +10,11 @@ $${\color{lightblue}PYTHON}$$
 
 ## Program Class Data_Mahasiswa
 * *Diagram Class*
-* <img src="Diagram/ss Diagram (2).png">
+* <img width="391" alt="ss Diagram (2)" src="https://github.com/Ws529/pertemuan12/assets/147570983/17c03ba2-bde9-4aa0-989c-1b0d8dd4afb7">
+>
 * *Flowchart*
-<img src="flowchart/ss flowchart.png">
+<img width="466" alt="ss flowchart" src="https://github.com/Ws529/pertemuan12/assets/147570983/57a13b75-4773-481a-8e5e-b913a5a32ff3">
+
 
 ### *Penjelasan dan kode Programnya*   
 Program kita kali ini akan menggunakan sistem OOP(Object-Oriented Programming), apa itu OOP?
@@ -145,26 +147,3 @@ while True:
     else :
         print('Pilih menu yang tersedia')
 print('Program Selesai') 
-
-* *Hasil Program*
-    * Inputan 'T' untuk Menambahkan Data   
-  <img src="Gambar/SS 1.png">
-   
-    * Inputan 'U' untuk Mengubah Data  
-      <img src="Gambar/SS 2.png">
-
-    * Inputan 'H' untuk Menghapus Data  
-      <img src="Gambar/SS 3.png">
-
-    * Inputan 'L' untuk Melihat Data  
-      <img src="Gambar/SS 4.png">
-
-    * Tampilan Data Sesudah Di Hapus
-
-     <img src="Gambar/SS 5.png">
-
-    * Inputan 'K' untuk Keluar dari program  
-  <img src="Gambar/SS 6.png">
-
-    * Inputan selain 'T', 'L', 'U', 'H', dan 'K'    
-      <img src="Gambar/SS 7.png">
